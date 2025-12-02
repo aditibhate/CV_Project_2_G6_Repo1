@@ -1,3 +1,5 @@
+Link to Rep 2: https://github.com/aditibhate/CS663_Project_2_G6_Repo2
+
 STEPS TO GET DATASET FROM ROBOFLOW 
 
 DATASET USED FOR THIS PROJECT : https://universe.roboflow.com/myroboflow/multitrash
